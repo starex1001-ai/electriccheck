@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "name": "전기료체크",
+  "brand": "ELECTRIC CHECK",
+  "mark": "EC",
+  "worker": "electriccheck",
+  "url": "https://electriccheck.webnote-lab.workers.dev",
+  "description": "가전의 전력 사용량과 전기요금 내역을 확인하는 방법을 다룹니다.",
+  "tagline": "전기 사용량부터 확인하기",
+  "categories": [
+    {
+      "slug": "dryer",
+      "name": "건조기 전기료",
+      "description": "건조기 전기료 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "moving",
+      "name": "이사·전기요금",
+      "description": "이사·전기요금 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "electric-bill",
+      "name": "전기요금",
+      "description": "전기요금 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "power-usage",
+      "name": "전력 사용량",
+      "description": "전력 사용량 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "air-conditioner",
+      "name": "에어컨 전기료",
+      "description": "에어컨 전기료 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "meter",
+      "name": "계량기",
+      "description": "계량기 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "refrigerator",
+      "name": "냉장고 전기료",
+      "description": "냉장고 전기료 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "standby",
+      "name": "대기전력",
+      "description": "대기전력 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "tiered-rates",
+      "name": "누진구간",
+      "description": "누진구간 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "heaters",
+      "name": "전기장판·히터",
+      "description": "전기장판·히터 관련 확인 방법과 가이드"
+    }
+  ],
+  "contact_url": "https://github.com/starex1001-ai/electriccheck/issues"
+}
